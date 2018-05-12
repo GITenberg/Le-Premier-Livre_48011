@@ -1,10 +1,16 @@
 _repo: Le-Premier-Livre_48011
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48011-h/images/cover.jpg
 creator:
   author:
     agent_name: Méras, Albert A.
     gutenberg_agent_id: '44578'
     url: http://www.gutenberg.org/2009/agents/44578
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48011#Le-Premier-Livre
 gutenberg_bookshelf:
 - FR Education et Enseignement
 - FR Langues
